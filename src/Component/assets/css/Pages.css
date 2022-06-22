@@ -1,0 +1,39 @@
+
+/* Card component Style start End */
+
+
+/* About Us  */
+.about-wrapper{
+    background:var(--bg-pink);
+    border-radius: 5px;
+}
+
+/* About Us  End*/
+
+.support-wrapper{
+    border: solid 2px var(--bg-pink);
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 5px;
+    border: #ff8261 1px solid;
+}
+
+
+/* Card section  */
+.card-sucess:hover{
+  background-color: #daffee;
+  border: 1px solid #fff;
+}
+.card-primary:hover{
+  background-color: #d7e7ff;
+  border: 1px solid #fff;
+}
+
+.card-warning:hover{
+  background-color: #fff3d1;
+  border: 1px solid #fff;
+}
+
+/* Card Section End */

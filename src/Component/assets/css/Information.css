@@ -1,0 +1,83 @@
+.general-info,
+.about,
+.social {
+    background: var(--bg-pink);
+}
+
+/* About Peragraph */
+.about,
+p {
+    text-align: justify;
+}
+
+/* All Heading of User Information Page */
+.heading {
+    font-size: 25px;
+}
+
+
+/* Social Icons  */
+.icons {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Main Wrapper Class */
+.social-icons-wrapper {
+    background: var(--bg-pink);
+    border-radius: 20px;
+}
+
+
+
+.social-icons-wrapper:hover, .about:hover, .general-info:hover{
+    box-shadow: #00000026 0px 5px 15px 0px;
+}
+/* All Form Control */
+.form-control {
+    background-color: #fff;
+}
+
+
+/* General Information Of User  */
+.profile-image {
+    height: 160px;
+}
+
+.user_image .profile-image {
+    text-align: center;
+}
+
+
+
+/* Project Status Button Section  */
+.add-button{
+    background: var(--orange);
+    color: var(--white);
+    border: none;
+    margin-left: 10px;
+}
+
+
+
+
+.add-button:hover{
+    background: var(--orange);
+    color: var(--white);
+    border: none !important;
+}
+
+
+.add-button:focus{
+    background: var(--orange);
+    color: var(--white);
+    box-shadow: none !important;
+}
+
+/* Project Status Button Section End  */
+
+select{
+    background:var(--white) !important;
+}

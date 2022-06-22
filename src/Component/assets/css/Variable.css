@@ -1,0 +1,54 @@
+:root{
+    --black: #000000;
+    --grey: #696969;
+    --greylight: #ececec;
+    --white: #ffffff;
+    --red: #ff0000;
+    --orange: #ff5528;
+    --orange-light: #ff8261;
+
+    /* bg color */
+    --bg-white: #ffffff;
+    --bg-pink: #fff9f6;
+    --bg-dark:#3b2231;
+    --bg-yelloy:#EEE8AA;
+    --bg-green:#66CDAA;
+    
+    /* Card bg colors */
+    --bg-card1:#FFDD6E;
+    --bg-card2:#7ADABF;
+    --bg-card3:#CDEF90;
+    --bg-card4:#fdd5c7;
+
+
+    /* border radious */
+    --rounded:10px;
+    --rounded-circle:50%;
+    
+    /* borders */
+    --border-0:1px;
+    --border: 1px;
+    --border-pink: #fdd5c7;
+    --border-grey: #c7c7c7;
+    --border-greylight: #ececec;
+    --border-white: #fff;
+
+    /* icon color */
+    --icon-orange:#ff5528;
+
+    /* font size  */
+    --small:0.80em;
+
+    /* text color */
+    --text-grey: #696969;
+    --text-greylight: #afafaf;
+
+    /* button background */
+    --orange-button:#ff5528;
+
+    /* box shadow */
+    --box-shadow-pink: 0px 7px 20px #ffc1b0;
+    --box-shadow-grey: 0px 10px 10px #ddd;
+
+}
+

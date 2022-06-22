@@ -1,0 +1,114 @@
+/* Use Login & User Registration Section */
+
+/* Sing in button  */
+.singin {
+  background: var(--orange);
+}
+
+/* All Forms Control  */
+.form-control {
+  background-color: var(--bg-pink);
+  border: rgb(255, 130, 97) solid 1px;
+}
+
+
+.box {
+  border: #ff8261 solid 1px;
+  /* box-shadow: 2px 2px 3px rgb(255, 130, 97), -2px -2px 3px rgb(255, 130, 97); */
+
+}
+
+
+
+
+/* Social Media Icons  */
+/* .icons {
+  margin-left: 40px;
+  margin-right: 40px;
+  border:solid 1px var(--orange-light);
+  align-items: center;
+} */
+
+
+/* Social Media Icons  text*/
+/* .icon-text {
+  margin-left: 5px;
+  margin-right: 5px;
+} */
+
+
+.social-media {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.social-media img {
+  border: 1px solid #ff5528;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+
+.bottom-text {
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  color: #ff8261;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+/* User Login Main Container  */
+.main-container {
+  width: 400px;
+  margin: 50px auto;
+}
+
+
+/* User Registration Main Container  */
+.registration-wrapper {
+  width: 400px;
+  margin: 50px auto;
+}
+
+/* User Login & User Registration Section End Here*/
+
+
+
+/* Form Element Style Section */
+.form-element-wrapper {
+  border:  solid 2px var(--orange);
+  box-shadow: #adadad59 0px 5px 15px;
+}
+
+hr {
+  color: var(--orange-light);
+}
+
+.user-icon {
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.heading {
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.submit-button {
+  background:var(--orange);
+}
+
+.singin-button {
+  width: 200px;
+}
+
+.form-select {
+  background-color: #fff9f6;
+  border:  solid 1px var(--orange-light);
+}
+
+/* Form Element Style Section End  Here*/

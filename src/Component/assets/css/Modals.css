@@ -1,0 +1,62 @@
+.modal-wrapper{
+    background-color: aqua;
+    height: 200px;
+    width: 700px;
+}
+
+
+.main-colomn {
+    background-color: #fff9f6;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.main-colomn:hover {
+    box-shadow: #00000026 0px 5px 15px 0px;
+}
+
+
+.model-button{
+    background: var(--orange);
+    color: var(--white);
+    border: none;
+}
+
+
+
+.model-button:hover{
+    background: var(--orange);
+    color: var(--white);
+    border: none !important;
+}
+
+
+.model-button:focus{
+    background: var(--orange);
+    color: var(--white);
+    box-shadow: none !important;
+}
+
+
+.modal-header-edit{
+    border-bottom:var(--orange) 1px solid !important;
+}
+
+.modal-footer-edit{
+    border-top:var(--orange) 1px solid !important;
+
+}
+
+.model-close-btn{
+    background: var(--bg-dark);
+    color: var(--white);
+    border: none;
+}
+
+
+
+.model-close-btn:hover{
+    background: var(--bg-dark);
+    color: var(--white);
+    border: none;
+}

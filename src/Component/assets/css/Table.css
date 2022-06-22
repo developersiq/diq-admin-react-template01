@@ -1,0 +1,25 @@
+.table1{
+    background: var(--bg-pink);
+    border: 1px solid var(--border-pink);
+}
+
+.table2{
+    background: var(--bg-yellow);
+}
+
+.table3{
+    background: var(--bg-green);
+
+}
+
+.table5{
+    border: 1px solid var(--border-pink);
+    background: var(--bg-pink);
+
+}
+tbody tr {
+    text-align: left!important;
+    line-height: 30px;
+    vertical-align: baseline;
+}
+

@@ -1,0 +1,5 @@
+@media screen and (max-width:678px){
+    .page-wrapper .page-content > div {
+        padding: 20px !important;
+      }
+}

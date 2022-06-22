@@ -1,0 +1,120 @@
+
+/*---------profile card---------*/
+
+.profile-sec{
+    background-color: var(--bg-pink);
+    border-radius: 20px;
+  }
+  .profile-sec:hover{
+    box-shadow: 3px 7px 24px rgb(0, 0, 0, 0.2);
+  }
+  .heading{
+    text-align: left;
+  }
+  .profile-img{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 12px;
+    border-radius: 5rem;
+    box-shadow: 1px 3px 14px rgb(0, 0, 0, 0.2);
+  }
+  .user-detail{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+  }
+  .user-profile-img{
+    width:60px;
+  }
+  
+  /* Social Icon */
+  .social-media-icon ul{
+    padding: 0;
+  }
+  .social-media-icon li {
+      display: inline;
+      margin: 0 4px;
+      padding: 0;
+  }
+  .icon-media{
+    padding: 8px 10px;
+    background-color: #fff;
+    border: 1px solid #ff5528;
+    border-radius: 26px;
+    color: #ff5528;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+  }
+  .icon-media:hover{
+    background-color: #ff5528;
+    color: #fff;
+    border-radius: 26px;
+  }
+  .icon{
+    margin-right: 12px;
+    color: #ff5528;
+  }
+  
+  .progress{
+    height: 6px;
+    background-color: #fdd5c7;
+  }
+  .progress-bar{
+    background-color: #ff5528;
+  }
+  .edit-btn{
+    background-color: #ff5528;
+    border: 1px solid #ff5528;
+    color: #fff;
+    padding: 5px 40px;
+    border-radius: 30px;
+    font-weight: 600;
+  }
+  .edit-btn:hover{
+    background-color: #fff;
+    color: #ff5528;
+    border: 1px solid #ff5528;
+    font-weight: 600;
+  }
+  .edit-btn:active:focus{
+    background-color: #fff;
+    color: #ff5528;
+    border: 1px solid #ff5528;
+    box-shadow: none;
+  }
+  .edit-btn:focus{
+    background-color: #fff;
+    color: #ff5528;
+    border: 1px solid #ff5528;
+    box-shadow: none;
+  }
+  
+  
+/*---------profile card End ---------*/
+
+/*---------project Status---------*/
+
+  .progress-line1{
+    width: 25%;
+  }
+
+  
+
+  .progress-line2{
+    width: 50%;
+  }
+
+  
+
+  .progress-line3{
+    width: 75%;
+  }
+
+  
+
+  .progress-line4{
+    width: 100%;
+  }
+
+/*---------project Status End---------*/

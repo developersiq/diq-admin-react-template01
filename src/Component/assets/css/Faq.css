@@ -1,0 +1,21 @@
+.main-accordion{
+    border:1px solid var(--orange);
+}
+
+
+.collapse-button:focus{
+    border-color: transparent;
+    box-shadow: none;
+    background: transparent;
+}
+.faq-question{
+    font-weight: bold;
+}
+
+
+/* 
+
+.faq-question:focus{
+    font-weight: bold;
+    color: #000 !important;
+} */
